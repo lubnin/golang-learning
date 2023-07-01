@@ -1,0 +1,2 @@
+execute this command to run the code with an argument: go run main.go file.txt
+text on another line
